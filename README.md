@@ -1,5 +1,4 @@
 # Coding Help
-<!DOCTYPE html>
 <html>
 <head>
 I created this repository to test my skills and help people.
@@ -7,3 +6,4 @@ I created this repository to test my skills and help people.
 <a href="https://github.com/ArenPRO14/Test-Repository">The repository</a>
 -
 <a href="https://github.com/ArenPRO14">My profile</a>
+
