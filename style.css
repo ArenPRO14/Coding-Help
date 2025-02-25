@@ -16,7 +16,7 @@ body {
     width: 80%; /* Adjust width as needed */
     max-width: 600px; /* Maximum width */
     margin: 50px auto; /* Center the container */
-    padding: 20px;
+    padding: 40px;
     background-color: #fff; /* White container background */
     border-radius: 8px; /* Rounded corners */
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
