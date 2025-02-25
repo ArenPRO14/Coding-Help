@@ -54,15 +54,20 @@ a:hover {
 .notch {
     position: absolute;
     top: 0;
-    left: 50%;
-    transform: translateX(-50%);
-    width: 150px; /* Adjust width as needed */
-    height: 100px; /* Adjust height as needed */
-    background-color: #fff; /* Background color of the notch */
-    clip-path: polygon(50% 0%, 100% 70%, 100% 100%, 0% 100%, 0% 70%); /* Creates the notch shape */
+    left: 0;
+    width: 200px; /* Adjust width as needed */
+    height: 100px;
+    background-color: #fff;
+    clip-path: polygon(0% 0%, 100% 70%, 100% 100%, 0% 100%, 0% 70%);
     display: flex;
-    justify-content: center;
     align-items: center;
+    padding-left: 20px; /* Adjust this value */
+}
+
+.logo {
+    max-width: 80%;
+    max-height: 80%;
+}
 }
 
 .logo {
